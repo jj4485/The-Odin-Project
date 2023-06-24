@@ -1,0 +1,18 @@
+button {
+    height: 50px;
+    border-color: gray;
+    border-width: 3px;
+ } 
+
+.yes { 
+    width: 110px;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+} 
+
+.no { 
+    width: 150px;
+    background-color: yellow;
+    font-size: 22px;
+} 
